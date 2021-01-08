@@ -12,7 +12,6 @@ Program ini merupakan Project Tugas dari Mata Pelajaran Pengembangan Web dan Per
 * Allah Swt.
 * Muhammad SAW.
 * My Parents
-* Pak WAHIDIN, S.Kom ( For Sources )
 * Nafatul Adistianingrum ( For Support )
 
 Thank you for your attention, please use it to learn and never complain.
